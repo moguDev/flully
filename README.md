@@ -162,3 +162,7 @@
 - **お知らせ機能**
     - 近隣で新しい迷子情報・保護情報が投稿された際のお知らせ
     - 近隣の「みつけた動物」に迷子情報を登録しているペットと同種類の動物が投稿された際の通知
+
+
+## 画面遷移図
+https://www.figma.com/design/DF57oqsPaCOvOaP7YbcDvp/flully%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3---%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=0-1&t=c3k4g7U7PIznQGAS-1
